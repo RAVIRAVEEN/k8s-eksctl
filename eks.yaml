@@ -5,7 +5,7 @@ metadata:
   name: roboshop
   region: us-east-1
 
-managedNodeGroups:nodeGroups:
+managedNodeGroups:
   - name: node
     instanceType: m5.large
     desiredCapacity: 3
